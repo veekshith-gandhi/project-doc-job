@@ -167,4 +167,4 @@ This architecture diagram represents a **Freelance Marketplace** built using a *
 
 ## 🖼️ Architecture Diagram
 
-![Project Architecture Diagram](document/architecture-project.png)
+![Project Architecture Diagram](architecture-project.png)
