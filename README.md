@@ -54,11 +54,5 @@ This documentation covers the system design decisions, microservices responsibil
 
 ---
 
-## 🖼️ Architecture Diagram
-
-![Project Architecture Diagram](architecture-project.png)
-
----
-
 ## 📂 Project Structure
 
