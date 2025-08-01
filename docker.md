@@ -24,5 +24,4 @@ To access services running inside a container (like a web server), you need to *
 ```bash
 docker run -p <host_port>:<container_port> <image>
 ```
-
 ---
