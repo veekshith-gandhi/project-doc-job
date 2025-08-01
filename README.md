@@ -54,5 +54,3 @@ This documentation covers the system design decisions, microservices responsibil
 
 ---
 
-## 📂 Project Structure
-
